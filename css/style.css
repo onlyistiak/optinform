@@ -1,0 +1,98 @@
+.head{
+	background: url(../img/hero.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	font-family: 'Raleway', sans-serif;
+	
+}
+
+
+.head-overlay {
+    background-color: #00005fd1;
+    padding-bottom: 1.5%;
+    height: 100%;
+}
+
+.sec-one-head {
+    color: white;
+    padding-top: 3.1%;
+    font-size: 35px;
+}
+.head-spn{
+		color: yellow;
+}
+
+p.para {
+    color: white;
+    padding-top: 2%;
+    font-size: 17px;
+    padding-bottom: 1.5%;
+}
+
+
+input[type="number"] {
+
+	width: 100%;
+	padding: 7px 0px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 7px 0px;
+    padding-left: 8px;
+}
+select#insurance {
+    width: 100%;
+    padding-left: 8px;
+    border-radius: 0px;
+    border: 0px;
+}
+.form-control {
+    margin-top: 2px;
+}
+
+label.name {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 700;
+}
+
+label.number {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.second{
+	padding-top: 2%;
+}
+
+p.formpara {
+    color: white;
+    font-size: 13px;
+    padding-top: 1%;
+}
+
+button.btn.btn-primary {
+    display: block;
+    margin: 0 auto;
+    background: #25b925;
+    border: none;
+    border-radius: 30px;
+    font-size: 23px;
+    padding: 7px 25px;
+}
+
+.foot-one p {
+    color: white;
+    font-size: 12px;
+    color: yellow;
+    text-align: left;
+}
+.foot-two p {
+    color: white;
+    font-size: 12px;
+    color: yellow;
+    text-align: right;
+}
